@@ -50,7 +50,7 @@ Preprocessing steps included **resizing (128×128)**, **normalization ([0,1])**,
 - Achieved **95.18% validation accuracy**
 - Demonstrated smooth convergence and high generalization
 
-![VGG19 Performance](assets/vgg19_performance.png)
+
 
 ---
 
@@ -60,7 +60,7 @@ Preprocessing steps included **resizing (128×128)**, **normalization ([0,1])**,
 - Validation accuracy peaked at **86%**
 - Exhibited stable learning and strong feature discrimination
 
-![ResNet50 Performance](assets/resnet50_training.png)
+
 
 ---
 
@@ -69,7 +69,7 @@ Preprocessing steps included **resizing (128×128)**, **normalization ([0,1])**,
 - Validation accuracy improved from **70% → 83%**  
 - Stable and robust generalization  
 
-![DenseNet121 Curves](assets/densenet121_accuracy.png)
+
 
 ---
 
@@ -78,7 +78,7 @@ Preprocessing steps included **resizing (128×128)**, **normalization ([0,1])**,
 - Outperformed all previous backbones
 - Showed superior stability and convergence  
 
-![DenseNet169 Curves](assets/densenet169_accuracy.png)
+
 
 ---
 
@@ -158,10 +158,6 @@ Retinal-OCT-C8/
 │
 ├── assets/
 │   ├── oct_banner.jpg
-│   ├── vgg19_performance.png
-│   ├── resnet50_training.png
-│   ├── densenet121_accuracy.png
-│   ├── densenet169_accuracy.png
 │   ├── orange_flow.png
 │
 ├── results/
