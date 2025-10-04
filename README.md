@@ -5,7 +5,7 @@ Deep learning–based retinal OCT image classification using VGG19, ResNet50, an
 
 # 🩺 Retinal OCT C8 Classification using Deep Learning and Orange3
 
-![Retinal OCT Banner](assets/oct_banner.jpg)
+![Retinal OCT Banner](assets/oct_banner.png)
 
 ## 📘 Overview
 This project focuses on **multi-class retinal disease classification** using **Optical Coherence Tomography (OCT)** scans. Leveraging state-of-the-art **Convolutional Neural Networks (CNNs)**—VGG19, ResNet50, DenseNet121, and DenseNet169—along with a **low-code Orange3 environment**, the project achieves accurate, interpretable, and efficient retinal diagnosis.
