@@ -90,7 +90,7 @@ In addition to model training, the project utilized the **Orange3** low-code ML 
 - Compare classical classifiers (SVM, Logistic Regression, Random Forest, Neural Network, Naive Bayes)  
 
 ### Example: Orange Flow for VGG19 Embeddings
-![Orange Workflow](assets/orange_flow.png)
+![Orange Workflow](assets/orangeWorkflow.jpg)
 
 **Key Results:**
 
